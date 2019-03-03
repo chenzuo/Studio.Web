@@ -26,9 +26,11 @@ body {
 }
 
 body {
-    /*font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-    /*font-family: Arial, Helvetica, sans-serif;*/
-    font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
+    /*
+    https://www.cnblogs.com/fozero/p/6087513.html
+    样式表修改成加网的
+    */
+    font: 14px/1.5 'Microsoft YaHei', arial, tahoma, \5b8b\4f53, sans-serif;
     font-size: 13px;
 }
 
