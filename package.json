@@ -1,0 +1,31 @@
+{
+  "name": "studio.web",
+  "version": "1.0.0",
+  "description": "web admin template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenzuo/Studio.Web.git"
+  },
+  "keywords": [
+    "web",
+    "template",
+    "manager"
+  ],
+  "author": "chenzuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenzuo/Studio.Web/issues"
+  },
+  "homepage": "https://github.com/chenzuo/Studio.Web#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.29",
+    "jquery": "^3.3.1"
+  }
+}
