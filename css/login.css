@@ -31,7 +31,7 @@
 
 .login .logo {
     padding: 15px;
-    font-size: 23px
+    font-size: 23px;
 }
 
 .login .box {
@@ -56,7 +56,10 @@
 .login .box .form-title {
     text-align: center;
     font-weight: 300;
-    margin-bottom: 25px
+    margin-bottom: 25px;
+    /*chenzuo add 2019 03.03*/
+    letter-spacing: 20px;
+    font-family: sans-serif;
 }
 
 .login .box .form-group {
@@ -68,7 +71,8 @@
 .login .box .form-actions {
     background-color: #fff;
     border-top: 0;
-    padding: 10px 0 0 25px;/*chenzuo 2019 03.03*/
+    /*chenzuo 2019 03.03*/
+    padding: 10px 0 0 20px;
     margin: 0;
 }
 
@@ -190,8 +194,10 @@
 }
 
 .login .footer {
-    width: 350px;
-    padding-top: 30px
+    /*width: 350px;*/
+    /*chenzuo modeify 2019 03.03*/
+    width: 100%;
+    padding-top: 90px;
 }
 
 .login .footer a {
