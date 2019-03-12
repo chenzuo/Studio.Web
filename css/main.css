@@ -3409,6 +3409,7 @@ ul.stats li.light strong {
 }
 
 @media print {
+
     .crumbs,
     .page-header,
     #sidebar,
