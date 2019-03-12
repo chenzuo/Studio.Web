@@ -11,7 +11,8 @@ body {
 }
 
 body {
-  font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti, "Microsoft YaHei";
+  /*font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti, "Microsoft YaHei";*/
+  font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
 }
 
 ul,
@@ -93,6 +94,7 @@ xmp {
   }
 }
 
+/*包裹起来的主体*/
 .wrapper {
   position: relative;
   /*overflow: hidden;*/
