@@ -212,6 +212,11 @@ xmp {
   transition: height 0.3s;
 }
 
+/*子菜单右间距*/
+.sidebar-menu .menu-list .sub-menu-list>.sub-menu-item {
+  padding-right: 5px;
+}
+
 .sidebar-menu .menu-list .sub-menu-list>.sub-menu-item>a {
   display: block;
   width: 100%;
