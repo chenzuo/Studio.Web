@@ -11,7 +11,6 @@ body {
 }
 
 body {
-  /*font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", STHeiti, "Microsoft YaHei";*/
   font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
 }
 
@@ -205,6 +204,7 @@ xmp {
 
 .sidebar-menu .menu-list>.menu-item.actived>.sub-menu-list {
   height: auto;
+  background-color: #495b68;
 }
 
 .sidebar-menu .menu-list .sub-menu-list {
@@ -240,7 +240,7 @@ xmp {
 }
 
 .sidebar-menu .menu-list .sub-menu-list>.sub-menu-item>a:hover {
-  background-color: #2ecc71;
+  background-color:#317f83;
 }
 
 .sidebar-menu.collapsed {
