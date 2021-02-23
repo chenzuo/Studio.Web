@@ -9,7 +9,17 @@ class App {
 }
 exports.App = App;
 let app = new App();
+/*
 $(document).ready(function () {
+    console.log("ready!");
+    app.OnInit();
+});
+jQuery(function(){
+    console.log("ready!");
+    app.OnInit();
+});
+*/
+$(document).jquery(function(){
     console.log("ready!");
     app.OnInit();
 });
